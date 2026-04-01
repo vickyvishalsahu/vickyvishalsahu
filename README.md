@@ -25,5 +25,6 @@ as an add-on.
 
 ## 📬 Let's connect
 
+🌐 [vickysahu.dev](https://vickysahu.dev)  
 Open to senior frontend roles in Berlin or remote.  
 Find me on [LinkedIn](https://linkedin.com/in/vickyvishalsahu) or drop me a message.
