@@ -2,7 +2,7 @@
 
 Senior Software Developer with 10 years of experience, based in Berlin.
 I specialise in frontend engineering — building fast, scalable, and
-maintainable web apps with React, TypeScript, and Next.js.
+maintainable web apps with React, TypeScript, Next.js and Node.js
 
 Most recently, I led frontend development on a proptech platform in the
 climate-tech space. Before that, I've worked across automotive, SaaS, and
