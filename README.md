@@ -19,10 +19,6 @@ as an add-on.
 **Tooling:** Tailwind CSS · Auth0 · REST APIs · Jira · Git  
 **Exploring:** AI agents · MCP integrations · LLM-powered workflows
 
-## 🔨 Side Projects
-
-- **vickysahu.dev** — My portfolio, built with Next.js + Tailwind + MDX
-
 ## 📬 Let's connect
 
 🌐 [vickysahu.dev](https://vickysahu.dev)  
