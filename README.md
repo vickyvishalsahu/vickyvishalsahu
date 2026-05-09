@@ -23,4 +23,4 @@ as an add-on.
 
 🌐 [vickysahu.dev](https://vickysahu.dev)  
 Open to senior frontend roles in Berlin or remote.  
-Find me on [LinkedIn](https://linkedin.com/in/vickyvishalsahu) or drop me a message.
+Find me on [LinkedIn](https://www.linkedin.com/in/vickyvishal/) or drop me a message.
